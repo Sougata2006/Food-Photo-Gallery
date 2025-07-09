@@ -16,7 +16,7 @@ A responsive photo gallery for showcasing delicious food items using HTML and CS
 
 ## 🌐 Demo
 
-You can see the live demo here (replace with your GitHub Pages link when deployed):
+You can see the live demo here:
 
 > [Live Demo]https://sougata2006.github.io/Food-Photo-Gallery/
 
