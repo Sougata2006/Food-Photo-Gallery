@@ -36,12 +36,18 @@ https://sougata2006.github.io/Food-Photo-Gallery/
 3.Add or replace your own images inside the /images folder.
 4.Customize the gallery layout and styles in style.css as needed.
 
+---
+
 ## 💻 Technologies Used
 HTML5
 CSS3
 
+---
+
 ## 📜 License
 This project is licensed under the MIT License.
+
+---
 
 ## 🙏 Acknowledgements
 Inspired by simple, clean gallery designs for easy sharing and customization. Perfect for beginners practicing web layout with HTML and CSS.
