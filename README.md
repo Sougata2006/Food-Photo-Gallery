@@ -23,13 +23,7 @@ You can see the live demo here (replace with your GitHub Pages link when deploye
 ---
 
 ## 📂 Folder Structure
-/food-gallery
-|-- index.html
-|-- style.css
-|-- /images
-|-- photo1.jpg
-|-- photo2.jpg
-|-- ...
+<pre> ``` /food-gallery ├── index.html ├── style.css └── /images ├── photo1.jpg ├── photo2.jpg └── ... ``` </pre>
 
 
 ---
@@ -42,14 +36,14 @@ https://sougata2006.github.io/Food-Photo-Gallery/
 3.Add or replace your own images inside the /images folder.
 4.Customize the gallery layout and styles in style.css as needed.
 
-💻 Technologies Used
+## 💻 Technologies Used
 HTML5
 CSS3
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 Inspired by simple, clean gallery designs for easy sharing and customization. Perfect for beginners practicing web layout with HTML and CSS.
 
 
